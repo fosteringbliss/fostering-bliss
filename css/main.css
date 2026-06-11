@@ -7,7 +7,7 @@ body {font-family: georgia, arial; font-size: 7.5pt; color: #AEE9F0; background:
 
 body
 { background-color: #181818;
-  background-image: url("colorvibesback (1).png");
+  background-image: url("images/colorvibesback (1).png");
 
 font-family: georgia, arial;
 color: #AEE9F0;
@@ -27,7 +27,7 @@ scrollbar-shadow-color: #40697B;
 scrollbar-track-color: #40697B}
 
 .entry
-{ background-image: url("textboxback.png");
+{ background-image: url("images/textboxback.png");
   
 }
   
@@ -42,7 +42,7 @@ scrollbar-track-color: #40697B}
   }
 
   .green {
-    background-image: url("leftnav.png");
+    background-image: url("images/leftnav.png");
   }
 .float-container {
     border: 3px solid #fff;
