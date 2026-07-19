@@ -1,5 +1,5 @@
 
-body {font-family: georgia, arial; font-size: 7.5pt; color: #AEE9F0; background: #181818; background-image: url()}
+body {font-family: georgia, arial; font-size: 7.5pt; color: #AEE9F0; background: #181818; background-image: url("images/backg.png")}
 
        a {font-family: georgia; color: #FFFFFF; text-decoration: none; font-size: 7.5pt; cursor:help}
        a:hover {font-family: georgia; color: #D6FBFF; text-decoration: bold; font-size: 8pt; cursor:help}
@@ -8,6 +8,7 @@ body {font-family: georgia, arial; font-size: 7.5pt; color: #AEE9F0; background:
 body
 { background-color: #181818;
   background-image: url("images/backg.png");
+
 
 font-family: georgia, arial;
 color: #AEE9F0;
