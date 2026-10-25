@@ -1,0 +1,94 @@
+body {
+    background: #d5e6c2;
+    background-image: url('../images/tests.gif');
+    background-repeat: repeat;
+    color: black;
+    font-family: Terminal, monospace;
+    font-size: 8pt;
+
+
+scrollbar-3dlight-color: #40697B;
+scrollbar-arrow-color: #40697B;
+scrollbar-base-color: #40697B;
+scrollbar-darkshadow-color: #40697B;
+scrollbar-face-color: #284653;
+scrollbar-highlight-color: #40697B;
+scrollbar-shadow-color: #40697B;
+scrollbar-track-color: #40697B}
+}
+
+a:link,
+a:visited {
+    color: skyblue;
+    font-size: 8pt;
+}
+
+a:link {
+    text-decoration: overline;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: plum;
+    background: skyblue;
+    border: 1px solid plum;
+    cursor: default;
+}
+
+a:active {
+    color: plum;
+    text-decoration: none;
+}
+
+b {
+    color: plum;
+    font-weight: normal;
+}
+
+u {
+    color: skyblue;
+}
+
+i {
+    color: plum;
+    font-style: italic;
+}
+
+s {
+    color: black;
+    text-decoration: line-through;
+}
+
+input,
+textarea {
+    border: 1px solid skyblue;
+    background: plum;
+    color: skyblue;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+hr {
+    width: 170px;
+    height: 7px;
+    border: 1px solid skyblue;
+}
+
+.side-nav {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    li {
+        margin: 2px 0 2px 0;
+    }
+
+    li:hover {
+        background-color: rgba(0, 0, 255, 0.2);
+    }
+}
